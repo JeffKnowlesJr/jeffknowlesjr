@@ -1,6 +1,6 @@
 ### Hi there 👋
-####🌱 I’m currently learning ...
-##### Ask me about front end and back end JavaScript ⚡ 
+🌱 I’m currently learning ...
+Ask me about front end and back end JavaScript ⚡ 
 
 
 
