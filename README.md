@@ -1,4 +1,8 @@
 ### Hi there 👋
+####🌱 I’m currently learning ...
+##### Ask me about front end and back end JavaScript ⚡ 
+
+
 
 <!--
 **JeffKnowlesJr/jeffknowlesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
