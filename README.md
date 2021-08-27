@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+🌱 I’m currently looking for new opportunities ...
 Ask me about front end and back end JavaScript ⚡ 
 
 
