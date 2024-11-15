@@ -6,7 +6,7 @@ I'm a developer and data analytics engineer based in Alexandria, VA, with expert
 
 ## 🧵 My Projects
 
-- **[Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin)**  
+- **[Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01)**  
   - A TypeScript plugin for Obsidian, adding powerful linking and navigation features, complete with type checking and the latest plugin API.
 
 - **[MERN Dev Connector](https://github.com/JeffKnowlesJr/MERN-Dev-Connector)**  
