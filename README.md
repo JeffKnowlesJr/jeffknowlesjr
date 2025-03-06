@@ -1,49 +1,36 @@
 # 👋 Hello! I'm Jeff Knowles Jr.
 
-💬 Ask me about Webflow, Microservice Architecture, and Full-Stack JavaScript Development! 🔭⚡
+I'm a developer and data analytics engineer based in Arlington, VA, specializing in modern web workflows, microservice architecture, and full-stack JavaScript development. I build scalable and efficient applications using AWS and leverage the Google Ecosystem for data insights. 🔭⚡
 
-I'm a developer and data analytics engineer based in Alexandria, VA, with expertise in both front-end and back-end JavaScript development. I enjoy working on projects that bring together modern workflows, microservices, and scalable applications.
+My path includes an AAS in Communication Design from Northern Virginia Community College and an immersive coding boot camp at Coding Dojo, which complement my self-driven approach to technology.
 
-## 🧵 My Projects
+## 🧵 My Current Projects
 
-- **[Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01)**  
-  - A TypeScript plugin for Obsidian, adding powerful linking and navigation features, complete with type checking and the latest plugin API.
-
-- **[MERN Dev Connector](https://github.com/JeffKnowlesJr/MERN-Dev-Connector)**  
-  - A MERN stack application serving as a mini social network with user profiles, authentication, and interactive forums.
-
-- **[ThreadFlow](https://github.com/JeffKnowlesJr/threadflow)**  
-  - A social networking app focused on community and interaction, featuring real-time chat, personalized feeds, and markdown-supported posts.
-
-- **[React Dog Store](https://github.com/JeffKnowlesJr/react-dog-store)**  
-  - An e-commerce interface built with React, providing a user-friendly browsing experience in a mock store setting.
-
-- **[OpenAI Quickstart Node](https://github.com/JeffKnowlesJr/OpenAI-Quickstart-Node)**  
-  - A Node.js app integrating OpenAI's API to explore machine learning's potential in enhancing user interactions.
+| Project Name                                                                       | Description                                                                               | Link                                                                 |
+| :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| [Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01) | Enhances Obsidian with powerful linking and navigation features, including type checking. | [GitHub](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01) |
 
 ## 🌱 What I'm Learning
 
-Currently expanding my expertise in:
+Currently focused on expanding my expertise in:
 
-- Advanced microservice patterns and architecture
-- Serverless workflows and integrations
-- Scalable and efficient API development
+- Implementing advanced microservice patterns and architecture.
+- Developing serverless workflows and integrations.
+- Building scalable and efficient APIs.
 
 ## 👯 Let's Collaborate
 
 I'm open to collaborating on projects that involve:
 
-- Data-driven development and analytics
-- Webflow and modern web design frameworks
-- Scalable application architecture and cloud solutions
+- Leveraging data insights from tools like Google Analytics 4 and Google Search Console.
+- Webflow development and modern web design best practices.
+- Building scalable applications on AWS.
 
 ## 📫 Get in Touch
 
-- **Email**: hello@jeffknowlesjr.com
+- **Email**: [hello@jeffknowlesjr.com](mailto:hello@jeffknowlesjr.com)
 - **LinkedIn**: [linkedin.com/in/jeffknowlesjr](https://linkedin.com/in/jeffknowlesjr)
 - **GitHub**: You're here! [github.com/JeffKnowlesJr](https://github.com/JeffKnowlesJr)
 
 😄 **Pronouns**: He/They  
-⚡ **Fun Fact**: 
-  1. I love exploring new tech tools and automations that streamline everyday workflows!
-  2. I’m all about tech hacks and finding those hidden tricks that make life (and code) smoother!
+⚡ **Fun Fact**: I love exploring new tech tools and automation that make life (and code) smoother!
