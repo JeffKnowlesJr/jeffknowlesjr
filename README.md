@@ -8,7 +8,7 @@ My path includes an AAS in Communication Design from Northern Virginia Community
 
 | Project Name                                                                       | Description                                                                               | Link                                                                 |
 | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| [Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01) | Enhances Obsidian with powerful linking and navigation features, including type checking. | [GitHub](https://github.com/JeffKnowlesJr/obsidian-link-plugin-v.01) |
+| [Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin) | Enhances Obsidian with powerful linking and navigation features, including type checking. | [GitHub](https://github.com/JeffKnowlesJr/obsidian-link-plugin) |
 | [Obsidian Custom Publish Beta](https://github.com/JeffKnowlesJr/obsidian-custom-publish-beta.git) | A powerful, customizable publishing system connecting Obsidian vaults to a Hugo-based website. | [GitHub](https://github.com/JeffKnowlesJr/obsidian-custom-publish-beta.git) |
 
 ## 🌱 What I'm Learning
