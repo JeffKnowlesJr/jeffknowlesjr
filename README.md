@@ -17,8 +17,6 @@ Full-stack web developer since 1999, based in Arlington, VA. I build web apps, c
 |---------|-------------|
 | [jkjrdev.com](https://www.jkjrdev.com) | Portfolio and blog — Next.js 15, TypeScript, Tailwind CSS, Cloudflare Pages. |
 | [jeffs.link](https://jeffs.link) | Published Obsidian vault — notes on development, tools, and workflows. |
-| [Obsidian Link Plugin](https://github.com/JeffKnowlesJr/obsidian-link-plugin) | Enhances Obsidian with powerful linking and navigation features. |
-| [Obsidian Custom Publish](https://github.com/JeffKnowlesJr/obsidian-custom-publish-beta) | Customizable publishing system connecting Obsidian vaults to a Hugo-based website. |
 
 ## Stack
 
