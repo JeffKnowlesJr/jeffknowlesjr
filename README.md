@@ -1,6 +1,6 @@
 # Jeff Knowles Jr
 
-Full-stack web developer since 1999, based in Arlington, VA. I build web apps, cloud infrastructure, and data-driven digital strategy for clients and side projects.
+Full-stack web developer, based in Arlington, VA. I build web apps, cloud infrastructure, and data-driven digital strategies for clients and side projects.
 
 **Portfolio:** [www.jkjrdev.com](https://www.jkjrdev.com)
 **Notes:** [jeffs.link](https://jeffs.link)
