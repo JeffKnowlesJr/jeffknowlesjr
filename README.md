@@ -16,7 +16,6 @@ Full-stack web developer, based in Arlington, VA. I build web apps, cloud infras
 |---------|------|------|
 | **jkjrdev.com** — portfolio & blog (Next.js 15, TypeScript, Tailwind CSS, Cloudflare Pages) | [JeffKnowlesJr/jkjrdev](https://github.com/JeffKnowlesJr/jkjrdev) | [jkjrdev.com](https://www.jkjrdev.com) |
 | **PII.link** — time tracking & project management (Next.js, Firebase, TypeScript) | [JeffKnowlesJr/pii-link](https://github.com/JeffKnowlesJr/pii-link) | [pii.link](https://pii.link) |
-| **Canticolo** — ChordPro chord charts, voicing diagrams, music theory (React, Firebase, TypeScript) | [JeffKnowlesJr/canticolo](https://github.com/JeffKnowlesJr/canticolo) | [canticolo.com](https://canticolo.com) |
 
 ## Notes
 
