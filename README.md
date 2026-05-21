@@ -6,8 +6,8 @@ Full-stack web developer, based in Arlington, VA. I build web apps, cloud infras
 
 ## What I do
 
-- **Web Development** — JavaScript and TypeScript frontends (React, Next.js), backend services, plus WordPress and Webflow when they fit.
-- **Cloud & Infrastructure** — AWS, Firebase, Cloudflare — hosting, DNS, CDN, and deployment configured for performance and security.
+- **Web Development** — TypeScript frontends (React, Next.js), backend services, plus WordPress and Webflow when they fit.
+- **Cloud & Infrastructure** — AWS, Firebase, Cloudflare — hosting, DNS, CDN, and deployment for performance and security.
 - **Google Analytics 4 & SEO** — GA4, data pipelines, search optimization — understand your traffic and grow your visibility.
 
 ## Open source & products
@@ -37,4 +37,4 @@ AAS in Communication Design from Northern Virginia Community College. Immersive 
 - **Email:** [hello@jeffknowlesjr.com](mailto:hello@jeffknowlesjr.com)
 - **LinkedIn:** [linkedin.com/in/jeffknowlesjr](https://www.linkedin.com/in/jeffknowlesjr)
 - **Behance:** [behance.net/jeffknowlesjr](https://www.behance.net/jeffknowlesjr)
-- **Pronouns:** He/They
+- **Pronouns:** He/Him
