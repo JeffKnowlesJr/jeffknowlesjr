@@ -36,4 +36,4 @@ AAS in Communication Design from Northern Virginia Community College. Immersive 
 - **Email:** [hello@jeffknowlesjr.com](mailto:hello@jeffknowlesjr.com)
 - **LinkedIn:** [linkedin.com/in/jeffknowlesjr](https://www.linkedin.com/in/jeffknowlesjr)
 - **Behance:** [behance.net/jeffknowlesjr](https://www.behance.net/jeffknowlesjr)
-- **Pronouns:** He/Him
+- **Pronouns:** He/Him · They/Them
